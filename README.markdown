@@ -1,7 +1,7 @@
 
 # Thymeleaf Organizational Repository
 
-This repository contains artifacs of an organizational natura, such as:
+This repository contains artifacs of an organizational nature, such as:
 
    * Thymeleaf's official artwork.
    * Master copies of the Contributor License Agreements.
