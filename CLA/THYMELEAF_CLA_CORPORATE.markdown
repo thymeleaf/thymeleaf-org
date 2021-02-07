@@ -1,7 +1,7 @@
 Thymeleaf Corporate Contributor License Agreement
 -------------------------------------------------
 
-Version: 20210207
+_Version: 20210207_
 
 Thank you for your interest in The Thymeleaf Project ("Thymeleaf"). In order to
 clarify the intellectual property license granted with Contributions from any
