@@ -55,15 +55,16 @@ Reader, you will find in your sidebar a _Fill & Sign_ option:
 
 ![Fill & Sign](https://github.com/thymeleaf/thymeleaf-org/blob/main/misc/pdf_cla_images/pdf_fill_sign.png)
 
-This will allow you to fill all the form fields. At the end of the document you
-will find a space for your signature, which you can add with the _Sign_ option
-that will appear in your toolbar while in _Fill & Sign_ mode:
+This will allow you to fill in all the form fields. At the end of the document
+you will find a space for your signature, which you can add with the _Sign_
+option that will appear in your toolbar while in _Fill & Sign_ mode:
 
 ![Sign](https://github.com/thymeleaf/thymeleaf-org/blob/main/misc/pdf_cla_images/pdf_sign.png)
 
 Once done, save the file (note this will disable any further edits) and send
-it to [the project leads][thymeleaf-team].
+it via email to [the project leads][thymeleaf-team].
 
+**Alternatively** you can also print the filled form and then scan it.
 
 
 
