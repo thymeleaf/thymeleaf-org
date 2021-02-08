@@ -105,8 +105,8 @@ step, please have a look at the [Thymeleaf CLA repository][cla].
 
 
 
-[cla]: https://github.com/thymeleaf/thymeleaf-org/blob/CLA_CURRENT/coc/CODE_OF_CONDUCT.markdown
-[code-of-coduct]: https://github.com/thymeleaf/thymeleaf-org/blob/COC_CURRENT/coc/CODE_OF_CONDUCT.markdown
+[cla]: https://github.com/thymeleaf/thymeleaf-org/blob/CLA_CURRENT/CLA/
+[code-of-coduct]: https://github.com/thymeleaf/thymeleaf-org/blob/CoC_CURRENT/CoC/THYMELEAF_CODE_OF_CONDUCT.markdown
 [thymeleaf-team]: https://www.thymeleaf.org/team.html
 [stackoverflow]: https://stackoverflow.com
 [stackoverflow-thymeleaf]: https://stackoverflow.com/tags/thymeleaf
