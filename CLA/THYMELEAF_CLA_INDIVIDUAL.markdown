@@ -155,3 +155,20 @@ MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
   * 5.6 You agree to notify Thymeleaf of any facts or circumstances of which you
         become aware that would make these representations inaccurate in any
         respect.
+
+
+
+
+Signed by:        ..............................................................
+
+Email:            ..............................................................
+
+Country:          ..............................................................
+
+GitHub user name: ..............................................................
+
+Date:             ..............................................................
+
+
+
+Please sign: ...................................................................
