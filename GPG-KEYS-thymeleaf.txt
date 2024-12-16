@@ -1,0 +1,15 @@
+Artifacts released by Thymeleaf are signed with one of these keys:
+
+--------
+User ID:     releases@thymeleaf.org
+Fingerprint: ECA0016B35F518BABA29E113BD7CD21208A46F42
+--------
+User ID:     dfernandez@users.sourceforge.net
+Fingerprint: 839323A4780D5BF9A6978970152888E10EF880B3
+--------
+
+These keys can be obtained from well-known key servers like:
+
+keyserver.ubuntu.com
+keys.openpgp.org
+pgp.mit.edu
