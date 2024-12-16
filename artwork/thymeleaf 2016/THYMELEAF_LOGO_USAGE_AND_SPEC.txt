@@ -2,7 +2,7 @@
 THYMELEAF LOGO USAGE AND SPECIFICATIONS
 -------------------------------------------------------------------------------
 
-The Thymeleaf Logo is (c) The THYMELEAF Team and licensed under a
+The Thymeleaf Logo is (c) Thymeleaf and licensed under a
 Creative Commons Attribution 3.0 Unported License.
 
 The Thymeleaf logo artwork can be found at:
